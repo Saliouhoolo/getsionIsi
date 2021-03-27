@@ -1,0 +1,28 @@
+
+q
+java:S2095N"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·Ç‚æøÿÿÿÿ8žŠÀÀƒ/
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(ÿê§¯8Ô…†Àƒ/
+b
+java:S2147{"ECombine this catch with the one at line 120, which has the same body.(…‰”Ï8Çå¿Àƒ/
+j
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(É¸öÒüÿÿÿÿ8ä³«Âƒ/
+j
+java:S20951"HUse try-with-resources or close this "Connection" in a "finally" clause.(É¸öÒüÿÿÿÿ8ä³«Âƒ/
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·Ç‚æøÿÿÿÿ8ì®ï¿ƒ/
+m	java:S117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…–ñË8Çå¿Àƒ/
+X
+java:S18547"6Remove this useless assignment to local variable "ok".(—“´×ûÿÿÿÿ8Ëó†Àƒ/
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(êÔ•í8Ô…†Àƒ/
+j
+java:S2095d"HUse try-with-resources or close this "Connection" in a "finally" clause.(É¸öÒüÿÿÿÿ8ä³«Âƒ/
+j
+java:S2095M"HUse try-with-resources or close this "Connection" in a "finally" clause.(É¸öÒüÿÿÿÿ8ä³«Âƒ/
+{
+java:S2293a"YReplace the type specification in this constructor call with the diamond operator ("<>").(©’“©ûÿÿÿÿ8Çå¿Àƒ/
+i
+java:S2095e"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ8Çå¿Àƒ/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ó‚úŠÿÿÿÿÿ8ì®ï¿ƒ/
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(ò¿ïàÿÿÿÿÿ8žŠÀÀƒ/
+q
+java:S20952"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·Ç‚æøÿÿÿÿ8Ô…†Àƒ/

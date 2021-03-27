@@ -1,0 +1,10 @@
+com\mycompany\app\service\console\ConsoleDisplayProfesseur.class
+com\mycompany\app\controller\EtudiantController.class
+com\mycompany\app\service\console\ConsoleDisplayEtudiant.class
+com\mycompany\app\domain\Classe.class
+com\mycompany\app\repository\jdbc\EtudiantRepository.class
+com\mycompany\app\service\MenuEtudiant.class
+com\mycompany\app\domain\Etudiant.class
+com\mycompany\app\service\console\ScannerMenuEtudiant.class
+com\mycompany\app\service\DisplayeEtudiant.class
+com\mycompany\app\repository\jdbc\DataSource.class

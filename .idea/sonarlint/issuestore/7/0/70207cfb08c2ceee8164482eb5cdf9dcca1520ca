@@ -1,0 +1,22 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(•…ê8üôÛÀƒ/
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(Ôà‹€8¥ƒîÀƒ/
+Y
+java:S1128"<Remove this unused import 'com.mycompany.app.domain.Classe'.(ş´«Ô8¬’öÀƒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¦Ñ‹é8üôÛÀƒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÑŞƒ›şÿÿÿÿ8üôÛÀƒ/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(àøˆàûÿÿÿÿ8÷šìÀƒ/
+X	java:S125:"<This block of commented-out lines of code should be removed.(»÷½ğ8¼õıÀƒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ıŸ¹ªûÿÿÿÿ8¹ÿäÀƒ/
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(Ë¿¦8«ºúÀƒ/
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(àøˆàûÿÿÿÿ8«ºúÀƒ/
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(Ë¿¦8÷šìÀƒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(şã–È8üôÛÀƒ/
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ÑŠ…‚ÿÿÿÿÿ8÷šìÀƒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Óà½×8¹ÿäÀƒ/
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(ÑŠ…‚ÿÿÿÿÿ8«ºúÀƒ/
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(Ôà‹€8«ºúÀƒ/
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(şö©8ß‡ùÀƒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ù—–Ÿ8½˜İÀƒ/
+T	java:S1062"9Replace this use of System.out or System.err by a logger.(ğ¹ÕL8­‹àÀƒ/
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(‚ƒ’Óüÿÿÿÿ8‚áûÀƒ/
